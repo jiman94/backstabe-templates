@@ -9,7 +9,7 @@ metadata:
     - recommended
     - java
 spec:
-  owner: team-devops
+  owner: devops
   type: service
 
   # These parameters are used to generate the input form in the frontend, and are

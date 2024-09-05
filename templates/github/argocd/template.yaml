@@ -8,7 +8,7 @@ metadata:
     - recommended
     - argocd
 spec:
-  owner: team-devops
+  owner: devops
   system: megazone-idp
   type: service
 

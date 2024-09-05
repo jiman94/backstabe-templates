@@ -9,7 +9,7 @@ metadata:
     - techdocs
     - mkdocs
 spec:
-  owner: team-devops
+  owner: devops
   type: documentation
 
   parameters:

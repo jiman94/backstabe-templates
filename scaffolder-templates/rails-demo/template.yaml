@@ -5,7 +5,7 @@ metadata:
   title: Rails template
   description: scaffolder Rails app
 spec:
-  owner: team-devops
+  owner: devops
   type: service
 
   parameters:

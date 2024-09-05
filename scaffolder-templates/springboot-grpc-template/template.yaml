@@ -9,7 +9,7 @@ metadata:
     - java
     - grpc
 spec:
-  owner: team-devops
+  owner: devops
   type: service
 
   parameters:
