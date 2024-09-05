@@ -9,7 +9,7 @@ metadata:
     - aap
 spec:
   owner: team-devops
-  system: openmsa-idp
+  system: megazone-idp
   type: service
   parameters:
     - title: Provide information about the GitHub location

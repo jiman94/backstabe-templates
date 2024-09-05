@@ -9,7 +9,7 @@ metadata:
     - argocd
 spec:
   owner: team-devops
-  system: openmsa-idp
+  system: megazone-idp
   type: service
 
   parameters:
@@ -85,7 +85,7 @@ spec:
         namespace:
           title: Namespace
           type: string
-          default: system:openmsa-idp
+          default: system:megazone-idp
           description: The namespace for deploying resources
         hostUrl:
           title: Host URL

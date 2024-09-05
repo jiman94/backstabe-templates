@@ -12,7 +12,7 @@ metadata:
     - express
 spec:
   owner: team-devops
-  system: openmsa-idp
+  system: megazone-idp
   type: service
 
   parameters:
