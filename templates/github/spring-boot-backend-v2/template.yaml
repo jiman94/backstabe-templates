@@ -74,7 +74,7 @@ spec:
         javaPackageName:
           title: Java Package Namespace
           type: string
-          default: io/openmsa/spring-boot-app
+          default: com/megazone/spring-boot-app
           description: Name for the Java Package (ensure to use the / character as this is used for folder structure) should match Group ID and Artifact ID
     - title: Provide information about the CI method
       required:
