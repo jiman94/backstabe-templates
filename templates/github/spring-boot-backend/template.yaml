@@ -64,8 +64,8 @@ spec:
         groupId:
           title: Group ID
           type: string
-          default: io.openmsa
-          description: Maven Group ID eg (io.openmsa)
+          default: com.megazone
+          description: Maven Group ID eg (com.megazone)
         artifactId:
           title: Artifact ID
           type: string

@@ -64,8 +64,8 @@ spec:
         groupId:
           title: Group ID
           type: string
-          default: io.openmsa
-          description: Maven Group ID eg (io.openmsa)
+          default: com.megazone
+          description: Maven Group ID eg (com.megazone)
         artifactId:
           title: Artifact ID
           type: string
@@ -79,8 +79,8 @@ spec:
         javaPackageName:
           title: Java Package Namespace
           type: string
-          default: io.openmsa.quarkusapp
-          description: Name for the Java Package (e.g. io.openmsa.quarkusapp) should match Group ID and Artifact ID
+          default: com.megazone.quarkusapp
+          description: Name for the Java Package (e.g. com.megazone.quarkusapp) should match Group ID and Artifact ID
     - title: Provide information about the CI method
       required:
         - ci
