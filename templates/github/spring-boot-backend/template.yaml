@@ -110,7 +110,7 @@ spec:
                   type: string
                   default: quay.io
                   enum:
-                    - docker.openmsa.monster
+                    - AWS-ECR-URL
                     - quay.io
                   enumNames:
                     - Internal Nexus Registry

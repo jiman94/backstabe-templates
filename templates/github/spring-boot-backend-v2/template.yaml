@@ -111,7 +111,7 @@ spec:
                   default: docker.io
                   enum:
                     - docker.io
-                    - docker.openmsa.monster
+                    - AWS-ECR-URL
                   enumNames:
                     - docker.io
                     - Nexus Registry

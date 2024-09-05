@@ -88,9 +88,9 @@ spec:
                 imageRepository:
                   title: Select a registry
                   type: string
-                  default: docker.openmsa.monster
+                  default: AWS-ECR-URL
                   enum:
-                    - docker.openmsa.monster
+                    - AWS-ECR-URL
                     - quay.io
                   enumNames:
                     - Internal Nexus Registry

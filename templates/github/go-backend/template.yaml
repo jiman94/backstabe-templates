@@ -87,7 +87,7 @@ spec:
                   type: string
                   default: quay.io
                   enum:
-                    - docker.openmsa.monster
+                    - 
                     - quay.io
                   enumNames:
                     - Internal Nexus Registry
